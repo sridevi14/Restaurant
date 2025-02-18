@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/sowja/OneDrive/Desktop/VR_Buddy/Restaurant/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
